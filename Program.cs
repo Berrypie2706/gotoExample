@@ -32,16 +32,27 @@ namespace GotoExample
             //sb.Append("I am stringBuilder");
             //Console.WriteLine(sb);
             //Console.ReadKey();
-            
-            for(int i=1;i<10;i++)
-            {
-                if(i == 6)
-                {
-                    goto end;
-                }
-                Console.WriteLine("i value :{0}", i);
-            }
-        end: Console.WriteLine("The end");
+
+            //    for(int i=1;i<10;i++)
+            //    {
+            //        if(i == 6)
+            //        {
+            //            goto end;
+            //        }
+            //        Console.WriteLine("i value :{0}", i);
+            //    }
+            //end: Console.WriteLine("The end");
+            //    Console.ReadKey();
+
+            DateTime matchDate = new DateTime(day: 12, month: 08, year: 2025);
+            DateTime currentDate = DateTime.Now;
+            TimeSpan ts = matchDate.Subtract(currentDate);
+            Console.WriteLine("Days Remain : " + ts.Days);
+            Console.WriteLine("Hours Remain : " + ts.Hours);
+            Console.WriteLine("Minutes Remain : " + ts.Minutes);
+            Console.WriteLine("Seconds Remain : " + ts.Seconds);
+            Console.WriteLine("Milli seconds Remain : " + ts.Milliseconds);
+            Console.WriteLine(ts.ToString());
             Console.ReadKey();
         }
     }
