@@ -1,0 +1,8 @@
+D:\Mphasis live training\DAY2\GotoExample\GotoExample\bin\Debug\GotoExample.exe.config
+D:\Mphasis live training\DAY2\GotoExample\GotoExample\bin\Debug\GotoExample.exe
+D:\Mphasis live training\DAY2\GotoExample\GotoExample\bin\Debug\GotoExample.pdb
+D:\Mphasis live training\DAY2\GotoExample\GotoExample\obj\Debug\GotoExample.csproj.AssemblyReference.cache
+D:\Mphasis live training\DAY2\GotoExample\GotoExample\obj\Debug\GotoExample.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis live training\DAY2\GotoExample\GotoExample\obj\Debug\GotoExample.csproj.CoreCompileInputs.cache
+D:\Mphasis live training\DAY2\GotoExample\GotoExample\obj\Debug\GotoExample.exe
+D:\Mphasis live training\DAY2\GotoExample\GotoExample\obj\Debug\GotoExample.pdb
